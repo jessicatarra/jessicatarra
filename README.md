@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello, I'm Jessica. I'm a Front-end Web Developer (in the making) who is excited to participate in tech solutions that help Latam grow.
+Hello, I'm Jessica. I'm a Front-end Web Developer (in the making) who is excited about been part of the future tech solutions that will help Latam grow.
 
-Learning to love javascript through videos / books and articles in English, Portuguese and Spanish.
+Learning to love JavaScript through videos / books and articles in English, Portuguese and Spanish.
 
 Find me around the web:
 
