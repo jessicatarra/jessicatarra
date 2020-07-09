@@ -8,7 +8,7 @@ Find me around the web:
 
 - 💬 twitter: https://twitter.com/jessicatarra
 - ⚡ Personal site: https://www.tarralva.com/
-- 😄 Day stories: https://www.instagram.com/jessicatarra/
+- 😄 Daily stories: https://www.instagram.com/jessicatarra/
 - 📫 Sharing updates: https://www.linkedin.com/in/jessicatarra/
 
 <!--
