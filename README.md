@@ -2,7 +2,7 @@
 
 Hello, I'm Jessica. I'm a Front-end Developer who is excited about being part of the future tech solutions that will help LATAM grow.
 
-Loving and improving everyday my JavaScript and React skills through videos / books and articles in English, Portuguese and Spanish.
+Enjoying learning and improving everyday my JavaScript/React skills through videos / books and articles in English, Portuguese and Spanish.
 
 Find me around the web:
 
