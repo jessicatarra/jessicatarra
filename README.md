@@ -7,7 +7,6 @@ Enjoying learning and improving everyday my JavaScript/React skills through vide
 Find me around the web:
 
 - 💬 twitter: https://twitter.com/jessicatarra
-- ⚡ Personal site: https://www.tarralva.com/
 - 😄 Daily stories: https://www.instagram.com/jessicatarra/
 - 📫 Sharing updates: https://www.linkedin.com/in/jessicatarra/
 
