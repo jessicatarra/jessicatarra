@@ -2,7 +2,7 @@
 
 Hello, I'm Jessica. I'm from Cartagena, Colombia and currently living in Rio de Janeiro, Brazil. I'm a Front-end Developer who is excited about being part of the future tech solutions that will help LATAM grow.
 
-Enjoying learning and improving everyday my JavaScript/React skills through videos / books and articles in English, Portuguese and Spanish.
+Enjoying learning and improving everyday my JavaScript/React/Vue skills through videos / books and articles in English, Portuguese and Spanish.
 
 Find me around the web:
 
