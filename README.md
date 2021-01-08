@@ -6,9 +6,10 @@ Enjoying learning and improving everyday my JavaScript/React/Vue skills through 
 
 Find me around the web:
 
-- 💬 twitter: https://twitter.com/jessicatarra
-- 😄 Daily stories: https://www.instagram.com/jessicatarra/
-- 📫 Sharing updates: https://www.linkedin.com/in/jessicatarra/
+- 💬  Twitter: https://twitter.com/jessicatarra
+- 😄  Daily stories: https://www.instagram.com/jessicatarra/
+- 📫  Sharing updates: https://www.linkedin.com/in/jessicatarra/
+- ⚡   Website: https://www.tarralva.com
 
 <!--
 **jessicatarra/jessicatarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
