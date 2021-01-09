@@ -9,7 +9,7 @@ Find me around the web:
 - 💬  Twitter: https://twitter.com/jessicatarra
 - 😄  Daily stories: https://www.instagram.com/jessicatarra/
 - 📫  Sharing updates: https://www.linkedin.com/in/jessicatarra/
-- ⚡   Website: https://www.tarralva.com
+- ⚡   Website: https://www.tarralva.netlify.app
 
 <!--
 **jessicatarra/jessicatarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
