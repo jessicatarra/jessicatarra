@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-(random gif)
+I'm Jessica Tarra. Software Developer by day and overthinker by night. Currently having a toxic relationship with JavaScript and trying to overcome it with TypeScript.
+
+Learning Kotlin for back-end services in my current job. 
+
+Learning how to be a better Software Craftswoman.
+
+All about CLIs and Linux distros. 
+
+From .co living in .br 
+
+![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 
 ### Getting in touch
 
