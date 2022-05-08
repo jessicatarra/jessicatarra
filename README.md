@@ -29,7 +29,5 @@ From .co living in .br
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/jessicatarra/jessicatarra/master/assets/icons/linkedin.svg"
   /></a>
-
-#Testing crob job
 <br/>
 <sub>Last updated by update_readme_jessica_tarra script on 08 May 2022</sub>
