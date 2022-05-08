@@ -2,7 +2,7 @@
 
 I'm Jessica Tarra. Software Developer by day and overthinker by night. Currently having a toxic relationship with JavaScript and trying to overcome it with TypeScript.
 
-Learning Kotlin for back-end services in my current job. 
+Learning Kotlin for developing server-side applications in my current job. 
 
 Learning how to be a better Software Craftswoman.
 
