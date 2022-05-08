@@ -2,13 +2,13 @@
 
 I'm Jessica Tarra. Software Developer by day and overthinker by night. Currently having a toxic relationship with JavaScript and trying to overcome it with TypeScript.
 
-Learning Kotlin for developing server-side applications in my current job. 
+Learning Kotlin for developing server-side applications in my current job.
 
 Learning how to be a better Software Craftswoman.
 
-All about CLIs and Linux distros. 
+All about CLIs and Linux distros.
 
-From .co living in .br 
+From .co living in .br
 
 ![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 
@@ -29,4 +29,5 @@ From .co living in .br
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/jessicatarra/jessicatarra/master/assets/icons/linkedin.svg"
   /></a>
-&nbsp;
+<br/>
+Last updated by update_readme_jessicatarra script on 08 May 2022
