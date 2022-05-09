@@ -18,6 +18,9 @@ jobs:
           fetch-depth: 1
       - name: Run Script
         run: |
+          day=`date +%d`
+          month=`date +%B`
+          year=`date +%Y`
           rm ${GITHUB_WORKSPACE}/README.md
           cp ${GITHUB_WORKSPACE}/update/README.md ${GITHUB_WORKSPACE}/
           echo "<br/>" >> README.md
