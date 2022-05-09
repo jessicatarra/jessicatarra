@@ -1,0 +1,31 @@
+name: update
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: Run Script
+        run: |
+          rm ${GITHUB_WORKSPACE}/README.md
+          cp ${GITHUB_WORKSPACE}/update/README.md ${GITHUB_WORKSPACE}/
+          echo "<br/>" >> README.md
+          echo "<sub>Last updated by update_readme_jessica_tarra script on ${day} ${month} ${year}</sub>" >> README.md
+      - name: Deploy
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          git commit -m "Update dynamic content by github action"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
