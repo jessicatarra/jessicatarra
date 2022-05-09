@@ -30,4 +30,4 @@ From .co living in .br
     src="https://raw.githubusercontent.com/jessicatarra/jessicatarra/master/assets/icons/linkedin.svg"
   /></a>
 <br/>
-<sub>Last updated by update_readme_jessica_tarra script on 09 May 2022</sub>
+<sub>Last updated by github actions on 09 May 2022</sub>
