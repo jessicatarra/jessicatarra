@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '* * * * *'
 
 jobs:
   build-and-deploy:
@@ -24,7 +24,7 @@ jobs:
           rm ${GITHUB_WORKSPACE}/README.md
           cp ${GITHUB_WORKSPACE}/update/README.md ${GITHUB_WORKSPACE}/
           echo "<br/>" >> README.md
-          echo "<sub>Last updated by update_readme_jessica_tarra script on ${day} ${month} ${year}</sub>" >> README.md
+          echo "<sub>Last updated by github actions on ${day} ${month} ${year}</sub>" >> README.md
       - name: Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
