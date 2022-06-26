@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-I'm Jessica Tarra. Software Developer by day and overthinker by night. Currently having a toxic relationship with JavaScript and trying to overcome it with TypeScript.
+![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 
-Learning Kotlin for developing server-side applications in my current job.
+I'm Jessica Tarra. Software Developer by day and overthinker by night. Main stack: JavaScript / TypeScript.
 
-Learning how to be a better Software Craftswoman.
+Currently working toward improving my skills to design clean and scalable systems.
+
+I'm learning Kotlin for developing server-side applications in my current job.
 
 All about CLIs and Linux distros.
 
 From .co living in .br
-
-![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
-
 ### Getting in touch
 
 [tarralva.com](https://tarralva.com)
