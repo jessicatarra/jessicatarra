@@ -2,11 +2,9 @@
 
 ![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 
-I'm Jessica Tarra. Software Developer by day and overthinker by night. Main stack: JavaScript / TypeScript.
+I'm Jessica Tarra. Software Developer by day and overthinker by night.
 
-Currently working toward improving my skills to design clean and scalable systems.
-
-I'm learning Kotlin for developing server-side applications in my current job.
+Currently working to improve my skills in designing clean, testable, maintainable and scalable systems.
 
 All about CLIs and Linux distros.
 
