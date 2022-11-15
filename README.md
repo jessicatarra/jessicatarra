@@ -6,7 +6,7 @@ I'm Jessica Tarra. Software Developer by day and overthinker by night.
 
 Currently working to improve my skills in designing clean, testable, maintainable and scalable systems.
 
-All about CLIs and Linux distros.
+All about CLIs, Linux distros (sometimes Windows and macOS too), and terminal customization <3.
 
 From .co living in .br
 ### Getting in touch
