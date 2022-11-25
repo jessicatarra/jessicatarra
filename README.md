@@ -2,24 +2,20 @@
 
 ![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 
-I'm Jessica Tarra. Software Developer by day and overthinker by night. Main stack: JavaScript / TypeScript.
+I'm Jessica Tarra! Software Developer by day and overthinker by night.
 
-Currently working toward improving my skills to design clean and scalable systems.
+Currently working to improve my skills in designing clean, testable, maintainable and scalable systems.
 
-I'm learning Kotlin for developing server-side applications in my current job.
-
-All about CLIs and Linux distros.
+All about CLIs, Linux distros (sometimes Windows and macOS too), and terminal customization <3.
 
 From .co living in .br
 ### Getting in touch
 
-[tarralva.com](https://tarralva.com)
-
-<a href="https://twitter.com/jessicatarra" title="Follow me on Twitter">
+<a href="https://tarralva.com" title="Website">
   <img
     width="24"
-    alt="Follow me on Twitter"
-    src="https://raw.githubusercontent.com/jessicatarra/jessicatarra/master/assets/icons/twitter.svg"
+    alt="Website"
+    src="https://raw.githubusercontent.com/jessicatarra/jessicatarra/master/assets/icons/web.svg"
   /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jessicatarra/" title="Follow me on LinkedIn">
@@ -31,4 +27,4 @@ From .co living in .br
 
 <!-- testing github actions -->
 <br/>
-<sub>Last updated by github actions on 24 November 2022</sub>
+<sub>Last updated by github actions on 25 November 2022</sub>
