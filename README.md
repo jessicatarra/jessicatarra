@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [tarralva.com](tarralva.com)
 
-- ⚡ Fun fact **Crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
+- ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +19,4 @@
 
 <!-- testing github actions -->
 <br/>
-<sub>Last updated by github actions on 28 October 2023</sub>
+<sub>Last updated by github actions on 29 October 2023</sub>
