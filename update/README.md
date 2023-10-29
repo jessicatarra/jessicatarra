@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at [N26 Brasil](https://n26brasil.com/)
 
-- 🌱 I’m currently learning **clean, testable, maintainable and scalable system design.**
+- 🌱 I’m currently learning **go and distributed systems.**
 
 - 👨‍💻 All of my projects are available at [tarralva.com](tarralva.com)
 
-- ⚡ Fun fact **All about CLIs, Linux distros (sometimes Windows and macOS too), and terminal customization. From 🇨🇴 living in 🇧🇷**
+- ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
