@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **go and distributed systems.**
 
-- 👨‍💻 All of my projects are available at [tarralva.com](tarralva.com)
+- 👨‍💻 All of my projects are available at [tarralva.com](https://tarralva.com)
 
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
