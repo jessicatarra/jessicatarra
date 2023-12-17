@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jessica Tarra</h1>
 <h3 align="center">Software Developer.</h3>
 
-- 🔭 I’m currently working at [N26 Brasil](https://n26brasil.com/)
+- 🔭 I’m currently **open to work**. [previosly N26](https://n26.com/en-eu/press/press-release/n26-to-cease-operations-in-brazil).
 
 - 🌱 I’m currently learning **go and distributed systems.**
 
