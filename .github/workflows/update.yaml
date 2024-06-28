@@ -1,16 +1,15 @@
 name: update
 
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    - cron: "00 23 * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master 
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 10
