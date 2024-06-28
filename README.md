@@ -12,6 +12,20 @@
 <h3 align="left">📊 Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart             32 hrs 33 mins  ███████████████████████░░   91.60 %
+YAML             2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Text             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Shell Script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Batchfile        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Vue.js           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
