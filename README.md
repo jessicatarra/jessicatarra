@@ -10,7 +10,7 @@
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-207-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,7 +35,7 @@ Mac                      20 hrs 22 mins      ███████████�
 ```
 
 
- Last Updated on 10/07/2024 14:01:01 UTC
+ Last Updated on 10/07/2024 23:01:24 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
