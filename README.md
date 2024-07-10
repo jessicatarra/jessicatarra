@@ -9,8 +9,6 @@
 
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
-<h3 align="left">📊 Weekly development breakdown</h3>
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
 
