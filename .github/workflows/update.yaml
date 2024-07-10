@@ -1,13 +1,9 @@
 name: update
 
-# on:
-#   schedule:
-#     - cron: "00 23 * * *"
-
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    - cron: "00 23 * * *"
+
 
 jobs:
   update-readme:
@@ -25,3 +21,4 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
+          COMMIT_BY_ME: "True"
