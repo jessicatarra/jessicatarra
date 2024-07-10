@@ -12,18 +12,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 651.3 kB Used in GitHub's Storage 
- > 
-> 🏆 283 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 68 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -46,12 +34,8 @@ VS Code                  1 hr 19 mins        ██░░░░░░░░░�
 Mac                      20 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/jessicatarra/jessicatarra/master/assets/bar_graph.png)
-
-
- Last Updated on 10/07/2024 13:53:44 UTC
+ Last Updated on 10/07/2024 14:01:01 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
