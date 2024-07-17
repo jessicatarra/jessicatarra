@@ -18,24 +18,24 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     20 hrs 9 mins       █████████████████░░░░░░░░   68.46 % 
-C#                       6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-HTTP Request             59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Dart                     22 hrs 40 mins      ███████████████████░░░░░░   77.75 % 
+C#                       4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+CSHTML                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 hrs 10 mins      █████████████░░░░░░░░░░░░   51.56 % 
-Jetbrainsrider           8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Intellijidea             5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+IntelliJ IDEA            17 hrs 42 mins      ███████████████░░░░░░░░░░   60.70 % 
+Intellijidea             5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Jetbrainsrider           5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
 VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Mac                      29 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/07/2024 23:01:22 UTC
+ Last Updated on 17/07/2024 23:01:48 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
