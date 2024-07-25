@@ -10,7 +10,7 @@
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,25 +18,25 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       29 hrs 13 mins      ██████████████████░░░░░░░   73.58 % 
-Dart                     7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+C#                       35 hrs 24 mins      ████████████████████░░░░░   81.06 % 
+Dart                     4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Jetbrainsrider           31 hrs 6 mins       ████████████████████░░░░░   78.34 % 
-IntelliJ IDEA            7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-VS Code                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Android Studio           25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Jetbrainsrider           37 hrs 9 mins       █████████████████████░░░░   85.06 % 
+IntelliJ IDEA            4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+VS Code                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Android Studio           25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Mac                      23 hrs 3 mins       ███████████████░░░░░░░░░░   58.08 % 
-Windows                  16 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   41.92 % 
+Mac                      27 hrs 2 mins       ███████████████░░░░░░░░░░   61.91 % 
+Windows                  16 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   38.09 % 
 ```
 
 
- Last Updated on 24/07/2024 23:01:28 UTC
+ Last Updated on 25/07/2024 23:02:18 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
