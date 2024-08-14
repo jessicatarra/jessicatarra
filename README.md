@@ -10,7 +10,7 @@
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,23 +18,23 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       25 hrs 3 mins       █████████████████████░░░░   82.13 % 
-Dart                     4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+C#                       25 hrs 28 mins      ██████████████████████░░░   86.35 % 
+Dart                     2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Jetbrainsrider           26 hrs 7 mins       █████████████████████░░░░   85.61 % 
-IntelliJ IDEA            4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Jetbrainsrider           26 hrs 26 mins      ██████████████████████░░░   89.62 % 
+IntelliJ IDEA            2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Mac                      30 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/08/2024 23:01:36 UTC
+ Last Updated on 14/08/2024 23:01:44 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
