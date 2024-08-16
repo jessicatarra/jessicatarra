@@ -18,23 +18,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       27 hrs 15 mins      ██████████████████████░░░   88.64 % 
-Dart                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Csproj                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C#                       24 hrs 51 mins      ███████████████████░░░░░░   76.45 % 
+Dart                     6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Csproj                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+MsBuild targets file     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Jetbrainsrider           27 hrs 58 mins      ███████████████████████░░   90.99 % 
-IntelliJ IDEA            2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Jetbrainsrider           25 hrs 35 mins      ████████████████████░░░░░   78.67 % 
+IntelliJ IDEA            6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
 
 💻 Operating System: 
-Mac                      30 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/08/2024 23:01:21 UTC
+ Last Updated on 16/08/2024 23:01:19 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
