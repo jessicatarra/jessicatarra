@@ -10,7 +10,7 @@
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,23 +18,24 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     22 hrs 55 mins      █████████████████████░░░░   83.03 % 
-C#                       2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-textmate                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Dart                     20 hrs 36 mins      ████████████████████░░░░░   81.92 % 
+C#                       2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-IntelliJ IDEA            24 hrs 36 mins      ██████████████████████░░░   89.14 % 
-Jetbrainsrider           2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+IntelliJ IDEA            22 hrs 32 mins      ██████████████████████░░░   89.59 % 
+Jetbrainsrider           2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      22 hrs 41 mins      █████████████████████░░░░   82.20 % 
-Windows                  4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Mac                      20 hrs 14 mins      ████████████████████░░░░░   80.47 % 
+Windows                  4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
 ```
 
 
- Last Updated on 22/08/2024 23:01:36 UTC
+ Last Updated on 23/08/2024 23:01:19 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
