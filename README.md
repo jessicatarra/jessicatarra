@@ -18,24 +18,24 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     23 hrs 14 mins      ███████████████████░░░░░░   77.69 % 
-YAML                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-C#                       2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Text                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Dart                     21 hrs 36 mins      ██████████████████░░░░░░░   71.57 % 
+C#                       4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+YAML                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Text                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-IntelliJ IDEA            26 hrs 47 mins      ██████████████████████░░░   89.57 % 
-Jetbrainsrider           3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+IntelliJ IDEA            24 hrs 40 mins      ████████████████████░░░░░   81.74 % 
+Jetbrainsrider           5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      24 hrs 59 mins      █████████████████████░░░░   83.58 % 
-Windows                  4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Mac                      28 hrs 18 mins      ███████████████████████░░   93.77 % 
+Windows                  1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 ```
 
 
- Last Updated on 26/08/2024 23:02:15 UTC
+ Last Updated on 27/08/2024 23:01:36 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
