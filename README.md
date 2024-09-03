@@ -10,7 +10,7 @@
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,22 +18,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     19 hrs 1 min        ███████████████████░░░░░░   76.97 % 
-C#                       4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Text                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Dart                     15 hrs 33 mins      █████████████████████░░░░   82.55 % 
+C#                       2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-IntelliJ IDEA            19 hrs 37 mins      ████████████████████░░░░░   79.35 % 
-Jetbrainsrider           5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+IntelliJ IDEA            16 hrs 8 mins       █████████████████████░░░░   85.60 % 
+Jetbrainsrider           2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 
 💻 Operating System: 
-Mac                      24 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/09/2024 23:01:33 UTC
+ Last Updated on 03/09/2024 23:01:41 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
