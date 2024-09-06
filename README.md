@@ -18,22 +18,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     8 hrs 4 mins        ███████████████████████░░   93.95 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Dart                     7 hrs 32 mins       ███████████████████████░░   93.56 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 29 mins       █████████████████████████   98.70 % 
-Jetbrainsrider           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+IntelliJ IDEA            7 hrs 56 mins       █████████████████████████   98.62 % 
+Jetbrainsrider           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Mac                      8 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/09/2024 23:01:39 UTC
+ Last Updated on 06/09/2024 23:01:24 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
