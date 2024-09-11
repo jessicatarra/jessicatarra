@@ -18,21 +18,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     1 hr 59 mins        ██████████████████████░░░   89.98 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-GitIgnore file           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/09/2024 23:01:38 UTC
+ Last Updated on 11/09/2024 23:01:26 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
