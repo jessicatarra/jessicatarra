@@ -10,7 +10,7 @@
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,17 +18,23 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 46 mins        ██████████████░░░░░░░░░░░   54.83 % 
+YAML                     1 hr 25 mins        ███████████░░░░░░░░░░░░░░   43.91 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            3 hrs 14 mins       █████████████████████████   99.94 % 
+Jetbrainsrider           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 45 mins       █████████████████████░░░░   85.05 % 
+Windows                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 ```
 
 
- Last Updated on 16/09/2024 23:01:30 UTC
+ Last Updated on 17/09/2024 23:01:26 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
