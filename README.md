@@ -10,7 +10,7 @@
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,23 +18,23 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     34 hrs 59 mins      █████████████████████░░░░   85.99 % 
-C#                       2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-YAML                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Markdown                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Kotlin                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Dart                     32 hrs 24 mins      █████████████████████░░░░   84.76 % 
+YAML                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+C#                       1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Kotlin                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Android Studio           37 hrs 55 mins      ███████████████████████░░   93.21 % 
-Jetbrainsrider           2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Android Studio           36 hrs 6 mins       ████████████████████████░   94.41 % 
+Jetbrainsrider           1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+IntelliJ IDEA            38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Mac                      40 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/10/2024 23:01:26 UTC
+ Last Updated on 14/10/2024 23:01:21 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
