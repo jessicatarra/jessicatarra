@@ -10,7 +10,7 @@
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,24 +18,24 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     20 hrs 10 mins      ███████████████████░░░░░░   77.22 % 
-YAML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Kotlin                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Dart                     18 hrs 25 mins      ████████████████████░░░░░   80.00 % 
+YAML                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Kotlin                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+C#                       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-Android Studio           22 hrs 51 mins      ██████████████████████░░░   87.52 % 
-IntelliJ IDEA            1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Jetbrainsrider           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Android Studio           20 hrs 20 mins      ██████████████████████░░░   88.35 % 
+IntelliJ IDEA            1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Jetbrainsrider           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 💻 Operating System: 
-Mac                      26 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      23 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/10/2024 23:01:31 UTC
+ Last Updated on 21/10/2024 23:01:42 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
