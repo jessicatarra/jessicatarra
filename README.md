@@ -18,24 +18,25 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     11 hrs 39 mins      ██████████████░░░░░░░░░░░   54.33 % 
-C#                       9 hrs 7 mins        ███████████░░░░░░░░░░░░░░   42.53 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Dart                     11 hrs 39 mins      ███████████░░░░░░░░░░░░░░   45.91 % 
+C#                       9 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.95 % 
+Swift                    3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Android Studio           11 hrs 56 mins      ██████████████░░░░░░░░░░░   55.64 % 
-Jetbrainsrider           9 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.23 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Android Studio           11 hrs 57 mins      ████████████░░░░░░░░░░░░░   47.07 % 
+Jetbrainsrider           9 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.40 % 
+Xcode                    3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      21 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/10/2024 23:01:31 UTC
+ Last Updated on 27/10/2024 23:01:23 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
