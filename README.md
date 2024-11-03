@@ -12,8 +12,30 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 02/11/2024 23:01:31 UTC
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Dart                     12 hrs 20 mins      █████████████████░░░░░░░░   67.03 % 
+Swift                    2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+C#                       1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Kotlin                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+
+🔥 Editors: 
+Android Studio           13 hrs 27 mins      ██████████████████░░░░░░░   73.09 % 
+Xcode                    3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Jetbrainsrider           1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Notes                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+
+💻 Operating System: 
+Mac                      18 hrs 25 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 03/11/2024 23:01:51 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
