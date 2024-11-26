@@ -18,23 +18,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     9 hrs 39 mins       ████████████████████░░░░░   79.51 % 
-C#                       2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Dart                     9 hrs 58 mins       █████████████████████░░░░   85.03 % 
+C#                       1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           9 hrs 41 mins       ████████████████████░░░░░   79.77 % 
-Jetbrainsrider           2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Notes                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Android Studio           10 hrs              █████████████████████░░░░   85.30 % 
+Jetbrainsrider           1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 
 💻 Operating System: 
-Mac                      12 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/11/2024 23:01:32 UTC
+ Last Updated on 26/11/2024 23:01:39 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
