@@ -18,25 +18,25 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       3 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.61 % 
-Dart                     2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.17 % 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+C#                       3 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.38 % 
+Dart                     2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.39 % 
+YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-Jetbrainsrider           3 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.61 % 
-Android Studio           3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.52 % 
-Notes                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-IntelliJ IDEA            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Xcode                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Jetbrainsrider           3 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.38 % 
+Android Studio           3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.66 % 
+Notes                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+IntelliJ IDEA            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Xcode                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 💻 Operating System: 
-Mac                      8 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/12/2024 23:01:29 UTC
+ Last Updated on 09/12/2024 23:01:38 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
