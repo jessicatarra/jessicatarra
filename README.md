@@ -12,28 +12,40 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 655.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 509 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 69 Private Repositories 
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     25 hrs 5 mins       ███████████████████████░░   93.03 % 
-C#                       1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Dart                     25 hrs 46 mins      ███████████████████████░░   93.30 % 
+C#                       1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Text                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Android Studio           25 hrs 12 mins      ███████████████████████░░   93.48 % 
-Jetbrainsrider           1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Android Studio           26 hrs 14 mins      ████████████████████████░   94.97 % 
+Jetbrainsrider           1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-Mac                      26 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/12/2024 23:01:37 UTC
+ Last Updated on 17/12/2024 11:55:32 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
