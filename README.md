@@ -12,18 +12,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 655.7 kB Used in GitHub's Storage 
- > 
-> 🏆 509 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 69 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -45,7 +33,7 @@ Mac                      27 hrs 37 mins      ███████████�
 ```
 
 
- Last Updated on 17/12/2024 11:55:32 UTC
+ Last Updated on 17/12/2024 11:58:03 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
