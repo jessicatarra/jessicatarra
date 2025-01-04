@@ -18,23 +18,23 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Clojure                  3 hrs 47 mins       █████████████████░░░░░░░░   66.28 % 
-Markdown                 1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-Dart                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Markdown                 1 hr 38 mins        ████████████░░░░░░░░░░░░░   47.94 % 
+Clojure                  1 hr 27 mins        ███████████░░░░░░░░░░░░░░   42.31 % 
+Dart                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 51 mins       █████████████████░░░░░░░░   67.52 % 
-Android Studio           1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   32.23 % 
-Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Android Studio           1 hr 50 mins        █████████████░░░░░░░░░░░░   53.75 % 
+IntelliJ IDEA            1 hr 31 mins        ███████████░░░░░░░░░░░░░░   44.36 % 
+Notes                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/01/2025 23:01:41 UTC
+ Last Updated on 04/01/2025 23:01:34 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
