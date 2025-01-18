@@ -18,17 +18,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notes                    2 mins              █████████████████████████   100.00 % 
+Notes                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/01/2025 23:01:35 UTC
+ Last Updated on 18/01/2025 23:01:40 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
