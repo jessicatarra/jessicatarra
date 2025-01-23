@@ -18,17 +18,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Clojure                  1 hr 13 mins        ███████████████████████░░   92.91 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Notes                    2 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 16 mins        ████████████████████████░   96.44 % 
+Notes                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/01/2025 23:01:38 UTC
+ Last Updated on 23/01/2025 23:01:27 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
