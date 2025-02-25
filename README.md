@@ -18,21 +18,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     8 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.27 % 
-Clojure                  7 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.72 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Dart                     6 hrs 55 mins       ████████████░░░░░░░░░░░░░   46.84 % 
+Clojure                  6 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.93 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 27 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            14 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/02/2025 23:01:26 UTC
+ Last Updated on 25/02/2025 23:01:23 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
