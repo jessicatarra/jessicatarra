@@ -10,7 +10,7 @@
 - ⚡ Fun fact **crazy cat lady and wanderlust. From 🇨🇴 living in 🇧🇷**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,21 +18,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Clojure                  12 hrs 34 mins      ██████████████████░░░░░░░   73.98 % 
-Dart                     3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-GitIgnore file           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Clojure                  11 hrs 57 mins      ███████████████████░░░░░░   77.01 % 
+Dart                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+GitIgnore file           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Gradle                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 59 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            15 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/05/2025 23:01:32 UTC
+ Last Updated on 20/05/2025 23:01:29 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
