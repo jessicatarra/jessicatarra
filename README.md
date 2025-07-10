@@ -18,23 +18,23 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Clojure                  9 hrs 12 mins       ███████████████████░░░░░░   74.25 % 
-Other                    2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Dart                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Clojure                  7 hrs 41 mins       ██████████████████░░░░░░░   73.11 % 
+Other                    2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Dart                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 5 mins       ████████████████████░░░░░   81.40 % 
-Zoom                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Notes                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+IntelliJ IDEA            8 hrs 12 mins       ████████████████████░░░░░   78.07 % 
+Zoom                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Notes                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-Mac                      12 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2025 23:01:35 UTC
+ Last Updated on 10/07/2025 23:01:25 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
